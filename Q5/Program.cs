@@ -10,7 +10,7 @@ Crie um programa em C# que:
 O programa deve calcular e exibir o total de moedas acumuladas pelo jogador, incluindo os bônus se aplicável.
 @Lista: 02 - Condicionais
 @Autor: Mauricio Escobar Azeveda Lima
-@Data: 20/08/2024
+@Data: 30/08/2024
 ---------------------------------------------------------------------*/
 using System;
 class Program{

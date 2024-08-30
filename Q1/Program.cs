@@ -6,7 +6,7 @@ as informações básicas do personagem antes de começar a aventura.
 classe, e raça do personagem e exiba esses dados no console.
 @Lista: 02 - Condicionais
 @Autor: Mauricio Escobar Azevedo Lima
-@Data: 29/08/2024
+@Data: 30/08/2024
 ---------------------------------------------------------------------*/
 using System;
 using System.Threading;

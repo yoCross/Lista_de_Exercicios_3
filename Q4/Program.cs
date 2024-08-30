@@ -10,7 +10,7 @@ Desenvolva um programa em C# que:
 O programa deve calcular e mostrar a vida total do herói ao final da jornada, considerando que ele começa com 100 pontos de vida.
 @Lista: 02 - Condicionais
 @Autor: Mauricio Escobar Azevedo
-@Data: 20/08/2024
+@Data: 30/08/2024
 ---------------------------------------------------------------------*/
 using System;
 class Program{

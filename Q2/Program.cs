@@ -13,7 +13,7 @@ O programa deve calcular e exibir a pontuação total acumulada pelo jogador.
 
 @Lista: 02 - Condicionais
 @Autor: Mauricio Escobar Azebedo
-@Data: 29/08/2024
+@Data: 30/08/2024
 ---------------------------------------------------------------------*/
 using System;
 using System.Runtime.ConstrainedExecution;

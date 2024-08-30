@@ -10,7 +10,7 @@ Crie um programa em C# que:
 O programa deve calcular e mostrar a quantidade total de itens no inventário e verificar se está dentro da capacidade máxima, informando se está excedido ou não.
 @Lista: 02 - Condicionais
 @Autor: Mauricio Escobar Azevedo Lima
-@Data: 20/08/2024
+@Data: 30/08/2024
 ---------------------------------------------------------------------*/
 using System;
 class Program{
